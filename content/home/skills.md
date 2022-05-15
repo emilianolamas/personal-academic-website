@@ -21,12 +21,12 @@ feature:
     icon_pack: fab
     name: R
   - description: Español, Inglés
-    icon: language
-    icon_pack: fab
+    icon: translate
+    icon_pack: custom
     name: Idiomas
   - description: Learning
-    icon: database
-    icon_pack: fab
+    icon: big-data
+    icon_pack: custom
     name: Data Science
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
