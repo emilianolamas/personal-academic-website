@@ -1,11 +1,11 @@
 ---
 title: Emiliano Lamas
-role: Estudiante de la Lic. en Economía
+role: Economics degree student
 avatar_filename: emiliano-picture
-bio: Mi área de interés principal es la macroeconomía argentina.
+bio: My main field of study is macroeconomics.
 interests:
-  - Macroeconomía
-  - Matemática
+  - Macroeconomics
+  - Econometrics
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,6 +31,6 @@ email: "me@emilianolamas.com"
 superuser: true
 highlight_name: true
 ---
-Emiliano Lamas es un estudiante de la Licenciatura en Economía de la Universidad Nacional de La Plata. Tiene 19 años.
+Emiliano Lamas is currently studying Economics at Universidad Nacional de La Plata. He is 19 years old and highly interested in Political Economics and the Argetina Economy.   
 
-{{< icon name="download" pack="fas" >}} Descargá mi {{< staticref "uploads/CV - Emiliano Lamas.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV - Emiliano Lamas.pdf" "newtab" >}}CV{{< /staticref >}}.

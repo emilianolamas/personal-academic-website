@@ -20,7 +20,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: Español, Inglés
+  - description: Spanish, English
     icon: translate
     icon_pack: custom
     name: Idiomas

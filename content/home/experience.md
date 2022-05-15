@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experiencia
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Desarrollador Web
+  - title: Web Development
     company_logo: webdev
     location: La Plata
     date_start: '2019-01-01'
     date_end: '2022-01-01'
-    description: Desarrollo web integral, para sitios personales y comercios electrónicos.
+    description: Full stack web develop of personal websites and local businesses. 
 
 design:
   columns: '2'
