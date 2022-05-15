@@ -1,7 +1,7 @@
 ---
 title: Emiliano Lamas
 role: Estudiante de la Lic. en Economía
-avatar_filename: emiliano-picture.webp
+avatar_filename: emiliano-picture
 bio: Mi área de interés principal es la macroeconomía argentina.
 interests:
   - Macroeconomía
