@@ -27,7 +27,7 @@ education:
     - course: Bachillerato en Economía y Administración
       institution: IJSMO
       year: 2020
-email: ""
+email: "me@emilianolamas.com"
 superuser: true
 highlight_name: true
 ---
