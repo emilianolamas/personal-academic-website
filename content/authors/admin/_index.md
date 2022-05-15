@@ -33,4 +33,4 @@ highlight_name: true
 ---
 Emiliano Lamas es un estudiante de la Licenciatura en Economía de la Universidad Nacional de La Plata. Tiene 19 años.
 
-{{< icon name="download" pack="fas" >}} Descargá mi {{< staticref "uploads/CV%-%Emiliano%Lamas.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descargá mi {{< staticref "uploads/CV - Emiliano Lamas.pdf" "newtab" >}}CV{{< /staticref >}}.
