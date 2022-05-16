@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: En aprendizaje
-    icon: r-project
-    icon_pack: fab
+    icon: r-icon
+    icon_pack: custom
     name: R
   - description: Español, Inglés
     icon: translate

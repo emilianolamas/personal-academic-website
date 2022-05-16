@@ -23,5 +23,5 @@ es:
         url: '#contact'
         weight: 20
       - name: CV
-        url: uploads/CV - Emiliano Lamas.pdf
+        url: ../uploads/CV - Emiliano Lamas.pdf
         weight: 30
