@@ -27,7 +27,7 @@ experience:
     location: La Plata
     date_start: '2019-01-01'
     date_end: '2022-01-01'
-    description: Full stack web develop of personal websites and local businesses. 
+    description: Desarrollo web integral para páginas personales y comercios electrónicos locales.
 
 design:
   columns: '2'

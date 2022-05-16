@@ -9,22 +9,22 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Habilidades
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Learning
+  - description: En aprendizaje
     icon: r-project
     icon_pack: fab
     name: R
-  - description: Spanish, English
+  - description: Español, Inglés
     icon: translate
     icon_pack: custom
     name: Idiomas
-  - description: Learning
+  - description: En aprendizaje
     icon: big-data
     icon_pack: custom
     name: Data Science

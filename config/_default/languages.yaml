@@ -19,6 +19,9 @@ es:
       - name: Inicio
         url: '#about'
         weight: 10
-      - name: Contact
+      - name: Contacto
         url: '#contact'
         weight: 20
+      - name: CV
+        url: uploads/CV - Emiliano Lamas.pdf
+        weight: 30

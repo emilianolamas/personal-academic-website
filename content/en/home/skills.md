@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Learning
-    icon: r-project
-    icon_pack: fab
+    icon: r-icon
+    icon_pack: custom
     name: R
   - description: Spanish, English
     icon: translate
     icon_pack: custom
-    name: Idiomas
+    name: Languages
   - description: Learning
     icon: big-data
     icon_pack: custom
