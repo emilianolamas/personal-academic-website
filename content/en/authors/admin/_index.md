@@ -1,7 +1,7 @@
 ---
 title: Emiliano Lamas
 role: Economics degree student
-avatar_filename: emiliano-picture
+avatar_filename: emiliano-picture.webp
 bio: My main field of study is macroeconomics.
 interests:
   - Macroeconomics
