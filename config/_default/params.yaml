@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Emiliano Lamas is a students of Economics at UNLP. Check out his latest work.'
+    twitter: 'emilianolamas_'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-M3GCNQ1CRE'
     baidu_tongji: ''
   verification:
     google: ''
@@ -74,7 +74,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
   comment:
     provider: ''
@@ -108,4 +108,4 @@ extensions:
 
 security:
   # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  allow_frame: false
