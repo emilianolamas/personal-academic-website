@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: me [at] emilianolamas.com
+  email: `me@emilianolamas.com`
   address:
     street: Calle 6 777
     city: La Plata
