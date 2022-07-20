@@ -26,7 +26,7 @@ experience:
     company_logo: webdev
     location: La Plata
     date_start: '2019-01-01'
-    date_end: '2022-01-01'
+    date_end: '2022-07-01'
     description: Desarrollo web integral para páginas personales y comercios electrónicos locales.
 
 design:
