@@ -17,16 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: En aprendizaje
-    icon: r-icon
-    icon_pack: custom
+    icon: r-project
+    icon_pack: fab
     name: R
   - description: Español, Inglés
-    icon: translate
-    icon_pack: custom
+    icon: language
+    icon_pack: fas
     name: Idiomas
   - description: En aprendizaje
-    icon: big-data
-    icon_pack: custom
+    icon: database
+    icon_pack: fas
     name: Data Science
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
