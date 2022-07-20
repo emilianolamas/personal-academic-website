@@ -32,6 +32,6 @@ email: "me@emilianolamas.com"
 superuser: true
 highlight_name: true
 ---
-Emiliano Lamas is currently studying Economics in UNLP, Argentina. He is very interested in Political Economics and Macroeconomics.
+Emiliano Lamas is currently studying Economics in UNLP, Argentina. He is interested in Political Economics and Macroeconomics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV - Emiliano Lamas.pdf" "newtab" >}}CV{{< /staticref >}}.
