@@ -5,7 +5,7 @@ avatar_filename: avatar
 bio: My main field of study is macroeconomics.
 interests:
   - Macroeconomics
-  - Econometrics
+  - Statistics
   - Data Science
 social:
   - icon: envelope
@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/emilianolamas_
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/emiliano-lamas
+    link: https://www.linkedin.com/in/emilianolamas
 organizations:
   - name: Universidad Nacional de La Plata
     url: https://www.econo.unlp.edu.ar/
@@ -32,6 +32,6 @@ email: "me@emilianolamas.com"
 superuser: true
 highlight_name: true
 ---
-Emiliano Lamas is currently studying Economics in UNLP, Argentina. He is interested in Political Economics and Macroeconomics.
+Emiliano Lamas is currently studying Economics at UNLP, Argentina. He is interested in Macroeconomics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV - Emiliano Lamas.pdf" "newtab" >}}CV{{< /staticref >}}.
