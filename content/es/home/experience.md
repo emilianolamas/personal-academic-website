@@ -35,7 +35,7 @@ experience:
     location: La Plata
     date_start: '2023-01-09'
     date_end: ''
-    description: Comencé siendo parte de la Mesa de Ayuda para luego formar parte del equipo de trabajo de CRM. Actualmente trabajo en el desarrollo de plataformas para la mejora en la atención a los usuarios de la organización. 
+    description: Comencé siendo parte de la Mesa de Ayuda para luego formar parte del equipo de trabajo de CRM. Actualmente trabajo en el desarrollo de plataformas para la mejora en la atención a los usuarios de la organización, utilizando la herramienta low-code Appsmith y bases de datos PostgreSQL.
 
 design:
   columns: '2'
