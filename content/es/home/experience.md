@@ -26,8 +26,15 @@ experience:
     company_logo: webdev
     location: La Plata
     date_start: '2019-01-01'
-    date_end: '2022-07-01'
+    date_end: ''
     description: Desarrollo web integral para páginas personales y comercios electrónicos locales.
+  - title: Customer Relationship Management
+    company: Caja de Odontólogos de la Prov. de Bs. As.
+    company_logo: webdev
+    location: La Plata
+    date_start: '2023-01-09'
+    date_end: ''
+    description: Comencé siendo parte de la Mesa de Ayuda para luego formar parte del equipo de trabajo de CRM. Actualmente trabajo en el desarrollo de plataformas para la mejora en la atención a los usuarios de la organización. 
 
 design:
   columns: '2'
