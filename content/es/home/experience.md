@@ -24,13 +24,14 @@ date_format: Jan 2006
 experience:
   - title: Web Development
     company_logo: webdev
+    company: Autónomo
     location: La Plata
     date_start: '2019-01-01'
     date_end: ''
-    description: Desarrollo web integral para páginas personales y comercios electrónicos locales.
+    description: Desarrollo web integral para páginas personales y comercios electrónicos locales utilizando WordPress y WooCommerce, haciendo énfasis en SEO y Web Performance.
   - title: Customer Relationship Management
     company: Caja de Odontólogos de la Prov. de Bs. As.
-    company_logo: webdev
+    company_logo: cajaodo.png
     location: La Plata
     date_start: '2023-01-09'
     date_end: ''
