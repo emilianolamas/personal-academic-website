@@ -2,11 +2,11 @@
 title: Emiliano Lamas
 role: Estudiante de Economía
 avatar_filename: emiliano-picture
-bio: Mi principal campo de interés es la macroeconomía. 
+bio: Mi principal campo de interés es la Data Science. 
 interests:
-  - Macroeconomía
-  - Econometría
   - Data Science
+  - Macroeconomía
+  - Inteligencia Artificial
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,8 +32,10 @@ email: "me@emilianolamas.com"
 superuser: true
 highlight_name: true
 ---
-Emiliano Lamas es un estudiante de la Licenciatura en Economía de la Universidad Nacional de La Plata. Tiene 19 años.
+¡Hola! Soy Emiliano, tengo 19 años y actualmente me encuentro cursando la Lic. en Economía en la UNLP, mientras que estoy haciendo una pasantía laboral en la Caja de Odontólogos de la Provincia de Buenos Aires.
 
-Sus principales intereses son la economía política y la macroeconomía.   
+Me interesa muchísimo la Ciencia de los Datos y cómo ésta puede optimizar los procesos y mejorar la toma de decisiones en cualquier tipo de organización.
+
+En mi tiempo libre me paso horas y horas descubriendo y aprendiendo nuevas tecnologías, pero a la vez me mantengo con un pie en siglos pasados a través de la literatura clásica. 
 
 {{< icon name="download" pack="fas" >}} Descargá mi {{< staticref "uploads/CV - Emiliano Lamas.pdf" "newtab" >}}CV{{< /staticref >}}.

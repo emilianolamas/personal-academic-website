@@ -20,7 +20,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: Español, Inglés
+  - description: Inglés, Francés (básico) y Latín (básico)
     icon: language
     icon_pack: fas
     name: Idiomas
