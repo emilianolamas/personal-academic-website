@@ -31,7 +31,7 @@ experience:
     description: Desarrollo web integral para páginas personales y comercios electrónicos locales utilizando WordPress y WooCommerce, haciendo énfasis en SEO y Web Performance.
   - title: Customer Relationship Management
     company: Caja de Odontólogos de la Prov. de Bs. As.
-    company_logo: cajaodo.png
+    company_logo: cajaodo
     location: La Plata
     date_start: '2023-01-09'
     date_end: ''
